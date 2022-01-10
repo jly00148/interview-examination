@@ -1,8 +1,8 @@
 /*
  * @Author: jly
  * @Date: 2021-12-24 20:20:23
- * @LastEditTime: 2021-12-24 22:22:25
- * @FilePath: \interview-examination\03-js\01-output\02-forAndTimer.js
+ * @LastEditTime: 2022-01-10 18:28:14
+ * @FilePath: \interview-examination\03-js\01-output\02-output2.js
  */
 
 for (var index = 0; index < 3; index++) {

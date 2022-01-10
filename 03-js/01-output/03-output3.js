@@ -1,8 +1,8 @@
 /*
  * @Author: jly
  * @Date: 2021-12-24 22:59:29
- * @LastEditTime: 2021-12-24 23:07:22
- * @FilePath: \interview-examination\03-js\01-output\03-scope.js
+ * @LastEditTime: 2022-01-10 18:28:08
+ * @FilePath: \interview-examination\03-js\01-output\03-output3.js
  */
 var bar = 1;
 
